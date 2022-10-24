@@ -27,4 +27,4 @@ async def on_message(message):
     if 'roll' in message.content.lower():
         await message.channel.send(random.choice(dice))
 
-client.run('<private token>')
+client.run('<your secret token>')
