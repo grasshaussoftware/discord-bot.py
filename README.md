@@ -1,5 +1,6 @@
 # discord-bot.py
-various discord.py projects
+various discord.py projects<br/>
+my discord server - https://discord.gg/btMwEseSDw<br/>
 
 random-bot.py - returns a random number between 1 and 10 in the channel when invoked with the keyword "random" anywhere in the message along with other features
 
