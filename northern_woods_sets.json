@@ -1,0 +1,17 @@
+{
+    "A-Quiet-Day":{
+        "Description":"The woods are quiet right now. A dirt path shaded by the trees goes to the north and south. There's some mushrooms growing by the side of the path. A few crows are resting in the trees, occasaionally cawing.",
+        "Actors":["north","south","trees","mushrooms","crow"],
+        "Commands":["feed","rest","scare","pet","follow"]
+    },
+    "A-Rustling-Over-Yonder":{
+        "Description":"A dirt path shaded by the trees runs to the north and south. In a nearby bush you hear something rustling.",
+        "Actors":["north","south","trees","bush","rustling","noise","pixie"],
+        "Commands":["feed","poke","rest","follow","pet"]
+    },
+    "A-Traveling-Salesman":{
+        "Description":"Leaves gently fall on the dirt path which runs to the north and south. A traveling salesman is passing by in his brilliant blue cart, led by two sturdy oxen.",
+        "Actors":["north","south","trees","path","salesman","cart","oxen","leaves"],
+        "Commands":["feed","poke","rest","follow","pet"]
+    }
+}
