@@ -5,6 +5,7 @@ support-tickets.py - member support bot. creates a channel for member and admin 
 <br/>
 general-purpose.py - just a simple example of slash commands
 <br/>
+role-upgrade.py - grants upgraded role status with the click of a button<br/>
 
 random-bot.py - returns a random number between 1 and 10 in the channel when invoked with the keyword "random" anywhere in the message along with other features
 
