@@ -1,7 +1,7 @@
 # discord-bot.py
 various discord.py projects<br/>
 my discord server - https://discord.gg/btMwEseSDw<br/><br/>
-support-tickets.py - member support bot. creates a channel for member and admin only. sends a webhook notification on creation of ticket. allows for adding and removing of members. can produce a transcript
+support-tickets.py - member support bot. creates a channel for member and admin only. sends a webhook notification on creation of ticket. allows for adding and removing of members. can produce a transcript<br/>
 <br/>
 general-purpose.py - just a simple example of slash commands
 <br/>
